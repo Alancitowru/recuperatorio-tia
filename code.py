@@ -1,7 +1,7 @@
 # Create a class called Product. Use the __init__ method to initialize two
 # attributes: name and price.
 # Add a method called apply_discount(percentage) that takes a number as an
-# argument and reduces the product&#39;s price by that percentage.
+# argument and reduces the product price by that percentage.
 # Create two instances of the class with different items and prices.
 # Apply a different discount to each product and print their final prices on the
 # screen.
